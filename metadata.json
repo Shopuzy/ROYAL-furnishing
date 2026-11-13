@@ -1,0 +1,6 @@
+{
+  "name": "Royal Furnishing",
+  "description": "Premium interior decorative materials — fluted panels, UV sheets, UV marble sheets, charcoal panels & bespoke architectural wall finishes for retail and wholesale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
